@@ -1,0 +1,6 @@
+[Nombre: JESUS
+Apellido:ROA
+Edad:3
+Nota: 12.0
+------------
+]
